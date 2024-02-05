@@ -1,10 +1,10 @@
 
-Cosmos connectes (🙃)
+Cosmos connected (🙃)
 ===========
 
-App de test sur les jotlin flow et compose
+App de test sur kotlin flow et compose
 
 Installation
 ===========
 
-Il vous suddit de builder le projet
+Il suffit de builder le projet
