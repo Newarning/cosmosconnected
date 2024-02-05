@@ -16,4 +16,4 @@ Installation
 ===========
 1) Open project with Android studio
 2) Let the gradle sync complete
-3) Click on RUN 🚀 ( with a device connected in developer mode it is better )
+3) Click on RUN 🚀 ( with a device connected in developer mode it's better )
